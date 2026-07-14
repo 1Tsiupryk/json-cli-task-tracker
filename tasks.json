@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Write project proposal",
+        "description": "Draft the initial project proposal and share with the team.",
+        "status": "in progress"
+    },
+    {
+        "id": 2,
+        "title": "Fix login bug",
+        "description": "Investigate and resolve the issue causing login failures for some users.",
+        "status": "in progress"
+    },
+    {
+        "id": 3,
+        "title": "Update documentation",
+        "description": "Add new API endpoints to the developer documentation.",
+        "status": "in progress"
+    },
+    {
+        "id": 4,
+        "title": "Create API",
+        "description": "Create simple FastAPI project with a few endpoints.",
+        "status": "in progress"
+    }
+]
